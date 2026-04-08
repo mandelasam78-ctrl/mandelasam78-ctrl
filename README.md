@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with understanding Data Structures and Algorithms
 - 💬 Ask me about anything in HTML
 - 📫 How to reach me: mandelasam@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Netherlands has nearly zero deforestation rate
